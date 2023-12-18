@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "name": "Giày Adidas Tốp 1",
+            "desc": "Chất lượng cao, Giá cả ưu đãi!",
+            "price": "1000 $"
+        },
+        {
+            "name": "Giày Adidas Tốp 2",
+            "desc": "Ngập tràn niềm vui",
+            "price": "2000 $"
+        },
+        {
+            "name": "Giày Adidas Tốp 3",
+            "desc": "Êm ái gọn nhẹ",
+            "price": "3000 $"
+        },
+        {
+            "name": "Giày Adidas Tốp 4",
+            "desc": "Thoáng mát Phong cách trẻ trung năng động",
+            "price": "4000 $"
+        }
+    ]
+}
